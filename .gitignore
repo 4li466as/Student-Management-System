@@ -1,0 +1,16 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+student_management
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
