@@ -44,7 +44,7 @@ You need a standard C++ compiler (like `g++`) installed on your machine.
 Clone the repository and compile using the included `Makefile`:
 
 ```bash
-git clone https://github.com/your-username/Student-Management-System.git
+git clone https://github.com/4li466as/Student-Management-System.git
 cd Student-Management-System
 make
 ```
